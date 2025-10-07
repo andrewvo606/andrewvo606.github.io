@@ -1,0 +1,26 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: darkgray;
+    margin: 40px;
+    color: black;
+}
+
+h1 {
+    color: #004aad;
+    text-align: center;
+}
+
+h2 {
+    color: #0073e6;
+    border-bottom: 2px solid #0073e6;
+    padding-bottom: 5px;
+}
+
+.about, .skills, .project, .contact {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
