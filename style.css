@@ -16,7 +16,7 @@ h2 {
     padding-bottom: 5px;
 }
 
-.about, .skills, .projects, .contact {
+.about, .skills, .projects, .contact, .resume {
   background-color: white;
   border-radius: 8px;
   padding: 20px;
