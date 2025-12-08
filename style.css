@@ -75,3 +75,20 @@ a:hover {
   margin-right: 12px;
   margin-bottom: 8px;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  background-color: #004aad;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-top: 10px;
+  transition: 0.2s;
+}
+
+.btn:hover {
+  background-color: #00337a;
+}
