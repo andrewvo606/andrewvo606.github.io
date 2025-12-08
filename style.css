@@ -92,3 +92,8 @@ a:hover {
 .btn:hover {
   background-color: #00337a;
 }
+
+.projects h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
